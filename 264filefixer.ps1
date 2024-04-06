@@ -1,4 +1,5 @@
-
+# powershell script to fix 264 files. Original credit to here https://gitlab.com/mbunkus/mkvtoolnix/-/issues/2146
+# I just added the batch processing abilities 
 param (
     [string]$InputFolderPath,
     [string]$OutputFolderPath,
